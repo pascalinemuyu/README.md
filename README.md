@@ -1,14 +1,12 @@
 # README.md
 
-# 👋 Hi, I'm Pascaline Wamuyu
+# 👋 Hi, I'm Pascaline Karinga
 
 ### 💻 Software Developer | IT Support | HSE Professional
 
-Welcome to my GitHub profile! I'm a **Computer Science graduate** with an interest in software development, IT support, systems implementation, networking, and digital solutions.
+ I'm a **Computer Science graduate** with an interest in software development, IT support, systems implementation, networking, and digital solutions.
 
 I enjoy building practical solutions that solve real-world problems, particularly through **web applications, business management systems, databases, and IT infrastructure**.
-
----
 
 ## 🚀 About Me
 
@@ -69,8 +67,7 @@ I enjoy building practical solutions that solve real-world problems, particularl
 * 📱 Exploring mobile application development
 * 🗄️ Developing database-driven applications
 * 🔌 Building and testing REST APIs
-* ☁️ Learning modern development tools and technologies
-* 🚀 Improving my Git and GitHub workflow
+* ☁️ Learning modern development tools and te\chnologies
 
 
 ## 📫 Contact Me
@@ -80,7 +77,7 @@ I enjoy building practical solutions that solve real-world problems, particularl
 | 📧 Email     | **[pascalinewamuyu99@gmail.com]**                           |
 | 💼 LinkedIn  | **www.linkedin.com/in/pascaline-wamuyu-046b75311*           |
 | 🐙 GitHub    | **github.com/pascalinemuyu**                                 |                              
-| 🌐 Portfolio | ***                              |
+
 
 ---
 
